@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/WEBTEST" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Hello/pom.xml" />
+        <option value="$PROJECT_DIR$/Parent/pom.xml" />
+        <option value="$PROJECT_DIR$/HDFSDEMO/pom.xml" />
+        <option value="$PROJECT_DIR$/MapReduceDEMO/pom.xml" />
+        <option value="$PROJECT_DIR$/ZookeeperDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/HiveDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/WEBTEST/pom.xml" />
+        <option value="$PROJECT_DIR$/flume0213/pom.xml" />
+        <option value="$PROJECT_DIR$/kafkaclient0213/pom.xml" />
+        <option value="$PROJECT_DIR$/AzkabanJavaProcess/pom.xml" />
+        <option value="$PROJECT_DIR$/flume-0213/pom.xml" />
+        <option value="$PROJECT_DIR$/scala0213/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/HDFSDEMO/MapReduceDEMO/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

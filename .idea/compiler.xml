@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ZookeeperDemo" />
+        <module name="HiveDemo" />
+        <module name="WEBTEST" />
+        <module name="MapReduceDEMO" />
+        <module name="Hello" />
+        <module name="scala0213" />
+        <module name="flume-0213" />
+        <module name="AzkabanJavaProcess" />
+        <module name="kafkaclient0213" />
+        <module name="flume0213" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="AzkabanJavaProcess" target="1.8" />
+      <module name="flume-0213" target="1.8" />
+      <module name="flume0213" target="1.8" />
+      <module name="HDFSDEMO" target="1.8" />
+      <module name="Hello" target="1.8" />
+      <module name="HiveDemo" target="1.8" />
+      <module name="kafkaclient0213" target="1.8" />
+      <module name="MapReduceDEMO" target="1.8" />
+      <module name="Parent" target="1.8" />
+      <module name="scala0213" target="1.8" />
+      <module name="WEBTEST" target="1.8" />
+      <module name="ZookeeperDemo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

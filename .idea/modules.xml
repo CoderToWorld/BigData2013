@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AzkabanJavaProcess/AzkabanJavaProcess.iml" filepath="$PROJECT_DIR$/AzkabanJavaProcess/AzkabanJavaProcess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HDFSDEMO/HDFSDEMO.iml" filepath="$PROJECT_DIR$/HDFSDEMO/HDFSDEMO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello/Hello.iml" filepath="$PROJECT_DIR$/Hello/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HiveDemo/HiveDemo.iml" filepath="$PROJECT_DIR$/HiveDemo/HiveDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapReduceDEMO/MapReduceDEMO.iml" filepath="$PROJECT_DIR$/MapReduceDEMO/MapReduceDEMO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parent/Parent.iml" filepath="$PROJECT_DIR$/Parent/Parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WEBTEST/WEBTEST.iml" filepath="$PROJECT_DIR$/WEBTEST/WEBTEST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZookeeperDemo/ZookeeperDemo.iml" filepath="$PROJECT_DIR$/ZookeeperDemo/ZookeeperDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flume-0213/flume-0213.iml" filepath="$PROJECT_DIR$/flume-0213/flume-0213.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flume0213/flume0213.iml" filepath="$PROJECT_DIR$/flume0213/flume0213.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafkaclient0213/kafkaclient0213.iml" filepath="$PROJECT_DIR$/kafkaclient0213/kafkaclient0213.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala0213/scala0213.iml" filepath="$PROJECT_DIR$/scala0213/scala0213.iml" />
+    </modules>
+  </component>
+</project>

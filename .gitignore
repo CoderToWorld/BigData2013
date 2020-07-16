@@ -1,0 +1,10 @@
+# Project exclude paths
+/AzkabanJavaProcess/target/
+/flume0213/target/
+/flume-0213/target/
+/HDFSDEMO/target/
+/Hello/target/
+/HiveDemo/target/
+/kafkaclient0213/target/
+/MapReduceDEMO/target/
+/ZookeeperDemo/target/
